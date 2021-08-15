@@ -1,16 +1,13 @@
-### Hello I'm Madhura... <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> 
+## Hello I'm Madhura Pharande <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> 
 
-<!--
-**Mmddzz3/Mmddzz3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I recently completed my Bachelor's in Information Technology 🎓 from K. J. Somaiya College Of Engineering, Mumbai. 
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Data Analytics
+- 🧐 Data Engineering and Data Analytics are subjects of my interest
+- 💬 Talk to me about anything and everything
+- 📚 Trying to learn more and more everyday!
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+

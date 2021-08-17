@@ -11,6 +11,6 @@ I recently completed my Bachelor's in Information Technology 🎓 from K. J. Som
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmddzz3&hide=java,c&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 <img src = "https://github-readme-stats.vercel.app/api?username=Mmddzz3&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
-
+<br><br><br><br>
+<img src="https://komarev.com/ghpvc/?username=Mmddzz3&label=Views&color=blue&style=plastic" alt="Madhura Pharande" />
 

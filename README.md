@@ -6,7 +6,10 @@ I recently completed my Bachelor's in Information Technology 🎓 from K. J. Som
 - 🧐 Data Engineering and Data Analytics are subjects of my interest
 - 💬 Talk to me about anything and everything
 - 📚 Trying to learn more and more everyday!
-<br>
+
+## Statistics  📊 
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmddzz3&theme=light&hide_langs_below=1" />
 <img src = "https://github-readme-stats.vercel.app/api?username=Mmddzz3&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 

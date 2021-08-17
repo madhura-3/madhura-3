@@ -7,7 +7,7 @@ I recently completed my Bachelor's in Information Technology 🎓 from K. J. Som
 - 💬 Talk to me about anything and everything
 - 📚 Trying to learn more and more everyday!
 <br>
-
+<img src = "https://github-readme-stats.vercel.app/api?username=Mmddzz3&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 

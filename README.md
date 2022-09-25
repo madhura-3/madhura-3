@@ -1,8 +1,8 @@
 ## Hello I'm Madhura Pharande <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> 
 
-I recently completed my Bachelor's in Information Technology 🎓 from K. J. Somaiya College Of Engineering, Mumbai. 
+I am currently pursuing my Master's in Data Analytics Engineering 🎓 from Northeastern University. 
 
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I’m currently learning Foundations of Data Analytics & Data Management Analytics.
 - 🧐 Data Engineering and Data Analytics are subjects of my interest
 - 💬 Talk to me about anything and everything
 - 📚 Trying to learn more and more everyday!

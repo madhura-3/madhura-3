@@ -7,8 +7,8 @@ I am currently pursuing my Master's in Data Analytics Engineering 🎓 from Nort
 - 💬 Talk to me about anything and everything
 - 📚 Trying to learn more and more everyday!
 
-<summary><b>:zap: GitHub Profile Stat</b></summary>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=madhura-3&show_icons=true" />
+  <summary><b>:zap: GitHub Profile Stat</b></summary>
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=madhura-3&show_icons=true" />
 
 
 

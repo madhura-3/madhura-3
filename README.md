@@ -12,5 +12,12 @@ I am currently pursuing my Master's in Data Analytics Engineering 🎓 from Nort
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=madhura-3&show_icons=true" />
 </details>
 
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/madhura-3/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=madhura-3&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+</details>
+
 
 

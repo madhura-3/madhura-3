@@ -17,6 +17,7 @@ I am currently pursuing my Master's in Data Analytics Engineering 🎓 from Nort
   <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=madhura-3&show_icons=true" />
 
 
+[![ProfileViews](https://komarev.com/ghpvc/?username=madhura-3&style=flat)](https://komarev.com/ghpvc/?username=madhura-3)
 
 
 

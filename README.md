@@ -2,7 +2,7 @@
 
 I am currently pursuing my Master's in Data Analytics Engineering 🎓 from Northeastern University. 
 
-- 🌱 I’m currently learning Foundations of Data Analytics & Data Management Analytics.
+- 🌱 I’m currently learning generative AI and modern data tech stack(dbt - snowflake).
 - 🧐 Data Engineering and Data Analytics are subjects of my interest
 - 💬 Talk to me about anything and everything
 - 📚 Trying to learn more and more everyday!
